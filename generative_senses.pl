@@ -1,3 +1,7 @@
+% License: GPLv3
+% (C) David Strohmaier
+% Based on the research work by Bradley Franks (https://philpapers.org/rec/FRASGA)
+
 :- use_module(library(reif)).
 :- use_module(library(lists)).
 :- use_module(library(dif)).
